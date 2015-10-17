@@ -1,11 +1,17 @@
 {
   "posts":{
-
+   "en-entrega-continua": {
+      "title": "En Entrega Continua",
+      "description": "Actualización de sistemas en forma continua a través de procesos automatizados.",
+      "author": "gaboesquivel",
+      "date":"2016-07-15T02:15:41.418Z",
+      "backgroundImage":"/assets/images/en-entrega-continua.jpg"
+    }
   },
   "authors":{
     "gaboesquivel":{
       "name": "Gabo Esquivel",
-      "bio": "Software Engineer, JavaScript Consultant. Organizer of @CostaRicaJS and @DevOpsCR",
+      "bio": "Software Engineer and Consultant. Organizer of @CostaRicaJS and @DevOpsCR",
       "twitter": "gaboesquivel",
       "github": "gaboesquivel",
       "avatar": "https://avatars3.githubusercontent.com/u/391270?v=3&s=460",
